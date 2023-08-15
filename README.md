@@ -8,3 +8,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigallo&theme=dracula&count_private=true&show_icons=true&hide=contribs,stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guigallo&theme=dracula)](https://git.io/streak-stats)
